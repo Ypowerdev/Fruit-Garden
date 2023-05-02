@@ -1,0 +1,31 @@
+{
+  "Apple": [
+    { "treeId": "63d6717b8c0b2" },
+    { "treeId": "63d6717b8c0e1" },
+    { "treeId": "63d6717b8c0e9" },
+    { "treeId": "63d6717b8c0eb" },
+    { "treeId": "63d6717b8c0ed" },
+    { "treeId": "63d6717b8c0ee" },
+    { "treeId": "63d6717b8c0ef" },
+    { "treeId": "63d6717b8c0f0" },
+    { "treeId": "63d6717b8c0f1" },
+    { "treeId": "63d6717b8c0f2" }
+  ],
+  "Pear": [
+    { "treeId": "63d671cea101b" },
+    { "treeId": "63d671cea1043" },
+    { "treeId": "63d671cea1045" },
+    { "treeId": "63d671cea1046" },
+    { "treeId": "63d671cea1047" },
+    { "treeId": "63d671cea1049" },
+    { "treeId": "63d671cea104a" },
+    { "treeId": "63d671cea104b" },
+    { "treeId": "63d671cea104f" },
+    { "treeId": "63d671cea1050" },
+    { "treeId": "63d671cea1051" },
+    { "treeId": "63d671cea1052" },
+    { "treeId": "63d671cea1053" },
+    { "treeId": "63d671cea1054" },
+    { "treeId": "63d671cea1055" }
+  ]
+}
